@@ -1,3 +1,7 @@
+# A decentralsed stable coin
+
+## The criteria which the stable coin was designed around:
+
 1. Relative stability: Anchored or pegged -> $1.00
     1. Chainlink Price feed
     2. Set a function to exchange ETH & BTC -> $$$
